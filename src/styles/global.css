@@ -6,8 +6,8 @@
 body {
 	font-family: Verdana, sans-serif;
 	margin: auto;
-	padding: 20px;
-	max-width: 65ch;
+	padding: 2px;
+	max-width: 80ch;
 	text-align: left;
 	background-color: #fff;
 	word-wrap: break-word;
@@ -64,4 +64,14 @@ blockquote {
 	padding: 2px 0px 2px 20px;
 	margin: 0px;
 	font-style: italic;
+}
+img.wide {
+	width: 100%;
+	height: 100%;
+	border-radius: 15px;
+}
+img.logo {	
+	width: 75%;
+	align-items: center;
+	border-radius: 15px;
 }
